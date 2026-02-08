@@ -1,0 +1,17 @@
+# Python system files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environments
+.venv/
+venv/
+env/
+ENV/
+
+# Excel/Data (opcjonalnie - żebyś przez przypadek nie udostępnił prywatnych danych klienta)
+*.xlsx
+*.csv
+!samples/*.csv
+!samples/*.xlsx
