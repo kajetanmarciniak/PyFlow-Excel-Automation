@@ -1,15 +1,10 @@
-Jasne, jeśli celujesz w rynek międzynarodowy (Fiverr/Upwork), najlepiej trzymać wszystko w języku angielskim. To buduje wizerunek profesjonalnego dewelopera.
-
-Oto tekst do samples/README.md wyłącznie po angielsku:
-Markdown
-
 # 📂 Sample Data Files
 
 This folder contains example datasets to demonstrate the script's capabilities. These files are designed to show how the automation handles different formats and structures.
 
 ### 📄 Files Included:
-1. **sample_january.csv** – Standard data with basic columns.
-2. **sample_february.xlsx** – Excel format with an empty column (demonstrating the "Smart Detection" feature).
+1. **Datasample1.csv**
+2. **Datasample2.csv** 
 
 ### 🚀 How to Run the Demo:
 1. **Download** the files from this folder.
