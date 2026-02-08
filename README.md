@@ -17,13 +17,13 @@ Eliminate hours of manual data entry with high-performance Python automation. Th
 - **Pandas** (Data Manipulation)
 - **OpenPyXL** (Excel Engine)
 
-##💡 Why this script is different:
+##💡 Why this script is better than others:
+Feature,What it does for you
 
-    Format Agnostic: Works with .csv, .xlsx, and .xls simultaneously.
-
-    Smart Column Mapping: Automatically detects "ID" and "Salary" columns even if they are not named exactly or if there are blank columns in between.
-
-    Data Cleaning: Automatically handles currency symbols, commas, and whitespace.
+🚀 Multi-Format,"Simultaneously processes .csv, .xlsx, and .xls in one go."
+🧠 Smart Detection,"Automatically finds ""ID"" and ""Value"" columns, even with blank columns in between."
+🧹 Auto-Cleaning,"Removes currency symbols ($, zł, €), fixes commas/dots, and trims spaces."
+📁 Flexible Paths,"Works on Desktop, OneDrive, or local folders without manual setup."
 
 ## 📁 How to Use
 1. Place your data files in the `PLIKI` folder.
