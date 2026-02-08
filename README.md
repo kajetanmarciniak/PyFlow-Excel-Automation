@@ -22,7 +22,6 @@ Eliminate hours of manual data entry with high-performance Python automation. Th
 2. Run the script:
    ```bash
    python main.py
-   ---
 ### 📬 Contact Me
 Ready to automate your workflow? 
 [**Order this service on Fiverr**](https://www.fiverr.com/s/KeAVD88)
