@@ -33,3 +33,4 @@ Feature,What it does for you
 ### 📬 Contact Me
 Ready to automate your workflow? 
 [**Order this service on Fiverr**](https://www.fiverr.com/s/KeAVD88)
+*Note: This project laid the groundwork for the more advanced [Financer_PRO](https://github.com/kajetanmarciniak/Financer_PRO).*
